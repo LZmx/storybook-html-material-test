@@ -1,0 +1,9 @@
+build
+.DS_Store
+.idea
+.env
+node_modules/
+reports
+configs/local.json
+temp
+yarn-error.log
